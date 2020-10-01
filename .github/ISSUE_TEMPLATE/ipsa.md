@@ -1,5 +1,5 @@
 ---
-name: 가입합니다.
+name: ipsa.
 about: 머기업 입사
 title: " 가입합니다."
 labels: 입사합니다
