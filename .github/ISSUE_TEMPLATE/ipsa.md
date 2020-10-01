@@ -1,7 +1,7 @@
 ---
 name: ipsa.
 about: 머기업 입사
-title: " 가입합니다."
+title: " 입사합니다."
 labels: 입사합니다
 assignees: injoon5
 
@@ -12,3 +12,5 @@ assignees: injoon5
 (아이디)
 - [ ] 아이디 입력 완료
 - [ ] 입사 준비 완료
+
+입사하면 인턴이 되고 시간이 지나면 더 높은 등급이 됩니다.
